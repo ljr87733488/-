@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>黄，在线教学，第一个个人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="  
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+    ">
+     <img src='https://i.imgs.ovh/2023/10/20/2stx0.jpeg' alt="黄"width="80px height="8px> 
+      <div>
+    <div style="
+      max-width:700px;
+      margin:30px auto;
+      line-height:1.7
+    ">
+       <h1>某某某个人网页</h1>
+       <p>就读潮南通艺实验学校</p>
+       <p>来着某某班</p>
+       <p>我的个人网站</p>
+       <p>我的个人网站</p>
+    <div>
+    <div style="  
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      font-size:12px;
+    ">
+    <p>我的网站</p>
+    <a href="https://www.baidu.com/">友情链接</a>
+    <div>
+  </body>
+</html>
+
